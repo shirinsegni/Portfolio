@@ -6,8 +6,10 @@ Hi! I'm **CHIFA BEN SALAH**, a Computer Engineering student interested in progra
 
 * Python
 * C
+* Java
 * Networking
 * Linux
+
 
 ## 🚀 Projects
 
