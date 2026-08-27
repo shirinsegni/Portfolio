@@ -13,15 +13,15 @@ Hi! I'm **CHIFA BEN SALAH**, a Computer Engineering student interested in progra
 
 ## 🚀 Projects
 
-### 🐍 Python Calculator
+### 🐍 Python projects
 
-A simple calculator developed using Python.
+Simple projects developed using Python.
 
 👉 [View Python Project](https://github.com/shirinsegni/python)
 
-### ☕ Java Project
+### ☕ Java Projects
 
-A Java project developed using Java.
+ Java projects developed using Java.
 
 👉 [View Java Project](https://github.com/shirinsegni/java)
 
